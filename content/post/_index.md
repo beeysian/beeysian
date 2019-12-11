@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: In the media
 
 # View.
 #   1 = List
